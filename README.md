@@ -4,7 +4,7 @@ If there exists a perfect phylogeny, then the tree is constructed.
 
 ## Perfect Phylogeny Tree
 
-<img src="Image/phylogeny_reconstruction.JPG" />
+<img src="Images/phylogeny_reconstruction.JPG" />
 
 Consider a set S of n taxa, eaphylogeny_reconstruction.JPGch characterized by m characters. This input
 can be expressed as an n × m character-state matrix M where Mij is the
